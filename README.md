@@ -2,7 +2,7 @@
 
 😃 **My name is Gleice Keli Felipe, I am 26 years old, and I am a Front-end developer.** <br><br>
 
-**Skills Developed**:
+**Skills Developed** 👇🏻
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/> <br> 
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/> <br>
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javaScript-logo" /> <br> **Systems Analysis | Relational Database | Big Data | Cloud Computing | Software Development | DevOps | Requirements Engineering | Data Structures and Algorithms | Machine Learning | Startup and Innovation Management | Computer Organization** <br><br>
