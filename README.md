@@ -3,7 +3,7 @@
 <br>
 **Olá! 😃**
 <br><br>
-**Sou Gleice Keli Felipe, uma desenvolvedora Front-end determinada a construir uma carreira sólida no universo da tecnologia. Minha jornada é movida pela paixão por desafios, aprendizado contínuo e pela oportunidade de crescer profissionalmente.**
+**Sou Gleice Keli, uma desenvolvedora Front-end determinada a construir uma carreira sólida no universo da tecnologia. Minha jornada é movida pela paixão por desafios, aprendizado contínuo e pela oportunidade de crescer profissionalmente.**
 <br>
 <br>
 **💡 Habilidades & Ferramentas:**
