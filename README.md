@@ -1,4 +1,4 @@
-**🚀 Desenvolvedora Front-end | Apaixonada por Tecnologia e Inovação**
+**🚀 Desenvolvedora Front-end em Formação | Apaixonada por Tecnologia e Inovação**
 <br>
 <br>
 **Olá! 😃**
@@ -15,12 +15,15 @@
 **🎯 Metas & Objetivos:**
 <br>
 
-🌍 Aprender inglês para atuar no mercado internacional<br>
-💻 Conquistar minha vaga como desenvolvedora web<br>
-🚗 Comprar meu carro zero e um computador novinho<br>
-🏆 Tornar-me uma Desenvolvedora Full-Stack Sênior, contribuindo para soluções inovadoras<br>
+🌍 Atuar no mercado internacional<br>
+💻 Conquistar minha primeira vaga como Desenvolvedora Web Front-end<br>
+🏆 Tornar-me uma Desenvolvedora Web Full-stack, contribuindo para soluções inovadoras e resolvendo problemas<br>
 
 **Estou pronta para essa jornada e determinada a transformar minha paixão por tecnologia em uma carreira de sucesso. Vamos construir o futuro juntos? 🚀
 <br>
 <br>
 📩 Me chame para trocar ideias e construir algo incrível!**
+
+🙋‍♀️ Desenvolvedora Gleice Keli Feito com 💙
+
+<img src="https://img.icons8.com/?size=100&id=84888&format=png&color=999999" alt="logo-Linkedin" width="30" /> <a href="https://www.linkedin.com/in/gleice-keli-felipe9670/">Gleice Keli Felipe</a>
