@@ -1,4 +1,4 @@
-**🚀 Desenvolvedora Front-end em Formação | Apaixonada por Tecnologia e Inovação**
+**🚀 Desenvolvedora Web Full-Stack em Formação | Apaixonada por Tecnologia e Inovação**
 <br>
 <br>
 **Olá! 😃**
